@@ -32,7 +32,7 @@ The readers are encourage to test the other loss in the cited reference includin
 
 ## Adding data augmentation
 
-The data augmentation is not provided in this code. The readers can test some classical augmentation approach for the image dataset, including: Flip, Rotation, Scale, Crop, Translation, Gussian Noise, and Salt-and-pepper Noise, to fully use the offered dataset.
+The data augmentation is not provided in this code. The readers can test some classical augmentation approach for the image dataset, including: Flip, Rotation, Scale, Crop, Translation, Gussian Noise, and Salt-and-pepper Noise, to fully use the offered dataset.\
 ![图片](https://user-images.githubusercontent.com/32351126/122664412-8fc91200-d1e4-11eb-8f94-3b0010de9adb.png)
 ![图片](https://user-images.githubusercontent.com/32351126/122664400-7c1dab80-d1e4-11eb-8b6c-f3fc2e7c5079.png)
 ![图片](https://user-images.githubusercontent.com/32351126/122664499-2eee0980-d1e5-11eb-8f7e-97114d50b158.png)
